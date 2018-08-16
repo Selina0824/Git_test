@@ -1,0 +1,3 @@
+[submodule "moduleA"]
+	path = moduleA
+	url = https://github.com/Selina0824/git_moduleA_test.git
